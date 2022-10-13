@@ -27,3 +27,18 @@ repositorio: `https://github.com/TecnologoInformatico/AdmInf-web.git`
     "ip": ""
 }
 ```
+
+1) mkdir ~/repositorios
+   cd repositorios
+   git clone https://github.com/TecnologoInformatico/AdmInf-web.git
+2)sudo apt update
+3)sudo apt install apache2
+4)sudo mkdir /var/www/mrodriguez
+5)sudo chown ubuntu /var/www/mrodriguez
+6)mrodriguez.tecnologoinformatico.com/
+
+
+9)cp ~/repositorios/AdmInf-web /var/www/mrodriguez
+
+11)mrodriguez.tecnologoinformatico.com
+   150.230.76.133
