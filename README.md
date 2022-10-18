@@ -36,9 +36,9 @@ repositorio: `https://github.com/TecnologoInformatico/AdmInf-web.git`
 4)sudo mkdir /var/www/mrodriguez
 5)sudo chown ubuntu /var/www/mrodriguez
 6)mrodriguez.tecnologoinformatico.com/
-
-
+7)nano /etc/hosts
+8)service apache2 restart
 9)cp ~/repositorios/AdmInf-web /var/www/mrodriguez
-
+10) Funciona :)
 11)mrodriguez.tecnologoinformatico.com
    150.230.76.133
